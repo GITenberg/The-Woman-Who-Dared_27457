@@ -1,0 +1,27 @@
+_repo: The-Woman-Who-Dared_27457
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sargent, Epes
+    birthdate: 1813
+    deathdate: 1880
+    gutenberg_agent_id: '32700'
+    url: http://www.gutenberg.org/2009/agents/32700
+description: ''
+gutenberg_issued: '2008-12-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27457'
+  lccn: '30003399'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PS'
+title: The Woman Who Dared
+url: http://www.gutenberg.org/ebooks/27457
